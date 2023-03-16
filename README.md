@@ -40,6 +40,8 @@ Cloud Shader Features
 
 ![Planets04](https://user-images.githubusercontent.com/67586167/225753926-1825333b-412c-415b-8354-2e5cd7fab181.jpg)
 
+![Lights](https://user-images.githubusercontent.com/67586167/225758329-6f80cdd4-f1eb-40a4-a89d-a08c93ac803d.jpg)
+
 How To Use
 - Drag the planet sphere into the scene
 - Drag in your selected heightmap (the higher the resolution the better it looks)
